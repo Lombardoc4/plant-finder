@@ -1,0 +1,50 @@
+{
+    "Verbesina alternifolia": {
+        "Other Scientific Names": "Actinomeris alternifolia",
+        "Other Common Names": "Yellow Ironweed",
+        "Plant Type": [
+            "Flower",
+            "Perennial"
+        ],
+        "New Jersey Native": "Yes",
+        "Bloom Times": "Late Summer to Fall",
+        "Bloom Colors": "Yellow",
+        "Deer Resistance": "High",
+        "Attracts Pollinators and Wildlife": [
+            "Bees and Other Pollinators",
+            "Butterflies",
+            "Birds"
+        ],
+        "Salt Tolerance": "Unknown",
+        "Hardiness Zone": [
+            "6a",
+            "6b",
+            "7a",
+            "7b"
+        ],
+        "Physiographic Region": "All Regions in NJ",
+        "Soil Type": [
+            "Loam",
+            "Organic",
+            "Sandy",
+            "Clay"
+        ],
+        "Soil Moisture": [
+            "Well-drained",
+            "Medium-drained"
+        ],
+        "Soil pH": [
+            "Slightly Acidic",
+            "Neutral"
+        ],
+        "Optimal Light": "Full Sun",
+        "Light Range": [
+            "Full Sun",
+            "Partial Shade"
+        ],
+        "Drought Tolerance": "Medium",
+        "Height": "4 - 8 ft",
+        "Spread": "2 - 6 ft",
+        "Growth Rate": "Fast"
+    }
+}
