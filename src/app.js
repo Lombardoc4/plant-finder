@@ -5,6 +5,8 @@ import PlantFloor from './plant-floor.component';
 import plantEx from '../public/plant.json';
 
 // import './scss/app.scss';
+
+// Does this change anything
 let finalPlantList = [];
 const plantExample = [
     {'plantName': 'sunflower', 'plantType': 'Wildflower', 'bloomTime': 'Summer', 'color': 'MiYellow' },
@@ -17,7 +19,7 @@ const plantExample = [
 
 
 const App = () => {
-    // console.log('plantEx', plantEx);
+    console.log('plantEx', plantEx);
 
     // State Lives Here for visible plants
     const [visiblePlants, setVisibility] = useState({
