@@ -19,7 +19,6 @@ const plantExample = [
 
 
 const App = () => {
-    console.log('plantEx', plantEx);
 
     // State Lives Here for visible plants
     const [visiblePlants, setVisibility] = useState({
@@ -43,18 +42,18 @@ const App = () => {
                 'White': false,
                 'Orange': false
             },
-            // 'Height': {
-            //     '0-1\'': false,
-            //     '2-3\'': false,
-            //     '4-6\'': false,
-            //     '7\'+': false,
-            // },
-            // 'Spread': {
-            //     '0-1\'': false,
-            //     '2\'-3\'': false,
-            //     '4\'-6\'': false,
-            //     '7\'+': false,
-            // },
+            'Height': {
+                '0-1\'': false,
+                '2-3\'': false,
+                '4-6\'': false,
+                '7\'+': false,
+            },
+            'Spread': {
+                '0-1\'': false,
+                '2\'-3\'': false,
+                '4\'-6\'': false,
+                '7\'+': false,
+            },
         },
     });
 
